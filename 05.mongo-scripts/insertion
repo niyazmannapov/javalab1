@@ -1,0 +1,22 @@
+db.users.insert([
+
+	{
+		"firstName": "name",
+		"lastName": "lastName",
+	},
+	{
+    		"firstName": "name2",
+    		"lastName": "lastName2",
+    },
+])
+
+db.something.insert([
+	{
+		"author": ObjectId("5fc107195462bc5a37094505"),
+		"text": "uh ti"
+	},
+	{
+		"author": ObjectId("5fc9e529bc412318eea5d995"),
+		"text": "rtert"
+	}
+])
